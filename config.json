@@ -1,0 +1,6 @@
+{
+  "token": "TOKENINIZ_BURAYA",
+  "guildId": "SUNUCU_ID",
+  "logChannel": "LOG_KANAL_ID",
+  "vanity": "BEKLEDIGIN_URL"
+}
